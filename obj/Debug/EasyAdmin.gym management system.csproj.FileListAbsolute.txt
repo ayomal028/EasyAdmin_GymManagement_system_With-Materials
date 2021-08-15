@@ -1,0 +1,47 @@
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\EasyAdmin.gym management system.exe.config
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\EasyAdmin.gym management system.exe
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\EasyAdmin.gym management system.pdb
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.Properties.Resources.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym management system.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym management system.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym management system.csproj.CopyComplete
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym management system.exe
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym management system.pdb
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.main_menu.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.registration_and_login.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.ownerRegis.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym management system.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.mainMenu.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.newMember.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.viewMembers.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\Renci.SshNet.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.newStaff.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.newEquipment.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.viewstaff.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.inventory.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.expences.resources
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\BarcodeStandard.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\System.Drawing.Common.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\bin\Debug\stdole.dll
+C:\Users\USER\source\repos\EasyAdmin.gym management system\obj\Debug\EasyAdmin.gym_management_system.attendance.resources
